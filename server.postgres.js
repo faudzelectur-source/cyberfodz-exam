@@ -716,6 +716,7 @@ app.get("/api/admin/export.xlsx", adminOnly, async (req, res) => {
     `);
 
     const rows = result.rows;
+    const questionList = readQuestions();
     const workbook = new ExcelJS.Workbook();
 
     workbook.creator = "CYBEREUDZ";
@@ -757,10 +758,50 @@ app.get("/api/admin/export.xlsx", adminOnly, async (req, res) => {
       };
 
       for (let i = 1; i <= 20; i++) {
-        row["q" + i] = answers[String(i)] || "-";
+        const question = questionList[i - 1];
+        const questionId = String(question?.id ?? i);
+        row["q" + i] = answers[questionId] || "-";
       }
 
-      sheet.addRow(row);
+      const excelRow = sheet.addRow(row);
+
+      for (let i = 1; i <= 20; i++) {
+        const question = questionList[i - 1];
+        const questionId = String(question?.id ?? i);
+        const selected = answers[questionId];
+        const correctAnswer = question?.answer;
+        const cell = excelRow.getCell(8 + i);
+
+        let fillColor;
+        let fontColor;
+
+        if (!selected) {
+          fillColor = "FFE7E6E6";
+          fontColor = "FF666666";
+        } else if (selected === correctAnswer) {
+          fillColor = "FFE2F0D9";
+          fontColor = "FF006100";
+        } else {
+          fillColor = "FFFFC7CE";
+          fontColor = "FF9C0006";
+        }
+
+        cell.fill = {
+          type: "pattern",
+          pattern: "solid",
+          fgColor: { argb: fillColor }
+        };
+
+        cell.font = {
+          bold: true,
+          color: { argb: fontColor }
+        };
+
+        cell.alignment = {
+          horizontal: "center",
+          vertical: "middle"
+        };
+      }
     });
 
     sheet.getRow(1).font = {
