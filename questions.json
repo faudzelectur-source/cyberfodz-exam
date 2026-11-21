@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "question": "Sebuah universitas mengadakan musyawarah untuk menentukan kebijakan penggunaan teknologi kecerdasan buatan. Mayoritas mahasiswa menyetujui penggunaan AI karena dianggap meningkatkan efisiensi pembelajaran. Namun, sebagian mahasiswa menolak karena khawatir mahasiswa dengan keterbatasan fasilitas akan semakin tertinggal. Jika keputusan mayoritas tetap diterapkan, bagaimana keputusan tersebut seharusnya dievaluasi berdasarkan Pancasila?",
+    "options": {
+      "A": "Tetap diterapkan karena keputusan mayoritas merupakan bentuk tertinggi demokrasi.",
+      "B": "Dibatalkan karena setiap keputusan yang menimbulkan perbedaan kondisi pasti bertentangan dengan keadilan.",
+      "C": "Dipertahankan dengan penyesuaian agar efisiensi tetap tercapai tanpa mengabaikan kesetaraan kesempatan.",
+      "D": "Ditunda sampai seluruh mahasiswa memiliki pandangan yang sama.",
+      "E": "Diserahkan kepada pihak kampus karena mahasiswa belum tentu memahami dampak kebijakan teknologi."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "Dalam suatu musyawarah, seluruh peserta sepakat membagikan anggaran secara merata. Namun, ternyata ada kelompok masyarakat yang membutuhkan anggaran jauh lebih besar karena kondisi ekonominya lebih buruk. Kesalahan mendasar dari keputusan tersebut adalah ...",
+    "options": {
+      "A": "Mengutamakan kesepakatan daripada kepentingan individu.",
+      "B": "Menganggap kesamaan jumlah sebagai satu-satunya ukuran keadilan.",
+      "C": "Menggunakan musyawarah sebagai dasar pembagian sumber daya.",
+      "D": "Memberikan perhatian lebih kepada kelompok yang membutuhkan.",
+      "E": "Tidak mempertimbangkan pendapat kelompok mayoritas."
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "question": "Seorang pemimpin mengambil keputusan yang terbukti menguntungkan masyarakat luas, tetapi dalam prosesnya ia sengaja mengabaikan pendapat kelompok minoritas. Jika hasil akhirnya baik, apakah proses tersebut dapat dibenarkan?",
+    "options": {
+      "A": "Dapat dibenarkan karena keberhasilan kebijakan lebih penting daripada proses.",
+      "B": "Tidak dapat dibenarkan karena kepentingan minoritas harus selalu mengalahkan mayoritas.",
+      "C": "Dapat dibenarkan apabila mayoritas telah memberikan persetujuan.",
+      "D": "Tidak sepenuhnya dapat dibenarkan karena hasil yang baik tidak otomatis menghapus persoalan dalam proses pengambilan keputusan.",
+      "E": "Dapat dibenarkan apabila pemimpin bertanggung jawab atas seluruh konsekuensi kebijakan."
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "Pemerintah menerapkan kebijakan pemerataan ekonomi dengan memberikan bantuan dalam jumlah yang sama kepada seluruh warga. Setelah dievaluasi, masyarakat berpenghasilan tinggi justru memperoleh manfaat lebih besar dibandingkan masyarakat miskin. Hal ini menunjukkan bahwa ...",
+    "options": {
+      "A": "Pemerataan secara administratif tidak selalu menghasilkan pemerataan manfaat secara nyata.",
+      "B": "Kesamaan perlakuan merupakan bentuk keadilan yang tidak dapat diperdebatkan.",
+      "C": "Keadilan sosial hanya dapat diwujudkan melalui perbedaan perlakuan.",
+      "D": "Pemerintah seharusnya tidak ikut campur dalam distribusi kesejahteraan.",
+      "E": "Bantuan sosial tidak dapat digunakan sebagai instrumen keadilan."
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": "Jika suatu keputusan telah disetujui melalui musyawarah, tetapi keputusan tersebut bertentangan dengan prinsip keadilan sosial, manakah yang seharusnya menjadi dasar evaluasi?",
+    "options": {
+      "A": "Keputusan harus dipertahankan karena musyawarah memiliki legitimasi tertinggi.",
+      "B": "Keputusan harus dibatalkan karena keadilan sosial selalu lebih penting daripada demokrasi.",
+      "C": "Keputusan perlu dievaluasi karena prosedur demokratis dan substansi keadilan merupakan dua aspek yang harus berjalan bersama.",
+      "D": "Keputusan dapat dipertahankan selama tidak ada peserta yang mengajukan keberatan.",
+      "E": "Keputusan diserahkan kepada pemimpin untuk menentukan benar atau salahnya."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "Sebuah perusahaan memberikan kesempatan promosi hanya kepada karyawan yang memiliki produktivitas tertinggi. Namun, sistem penilaiannya tidak memperhitungkan perbedaan fasilitas dan kesempatan kerja. Berdasarkan sila ke-5, persoalan utama dalam kebijakan tersebut adalah ...",
+    "options": {
+      "A": "Produktivitas tidak boleh dijadikan dasar penilaian.",
+      "B": "Kesempatan yang tampak sama dapat menghasilkan ketidakadilan jika kondisi awal dan akses tidak diperhitungkan.",
+      "C": "Seluruh karyawan seharusnya mendapatkan jabatan yang sama.",
+      "D": "Perusahaan harus mengutamakan karyawan dengan masa kerja terlama.",
+      "E": "Penilaian individu bertentangan dengan prinsip keadilan sosial."
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "Apabila mayoritas masyarakat menghendaki suatu kebijakan yang memberikan keuntungan ekonomi, tetapi kebijakan tersebut menghilangkan hak masyarakat adat atas ruang hidupnya, persoalan filosofis yang muncul adalah ...",
+    "options": {
+      "A": "Konflik antara demokrasi mayoritas dan perlindungan hak serta keadilan sosial.",
+      "B": "Konflik antara kepentingan ekonomi dan kebebasan berpendapat.",
+      "C": "Konflik antara pemerintah daerah dan pemerintah pusat.",
+      "D": "Perbedaan pandangan antara masyarakat tradisional dan modern.",
+      "E": "Ketidaksesuaian antara keputusan ekonomi dan keputusan politik."
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "question": "Sebuah lembaga perwakilan menggunakan teknologi survei untuk mengetahui aspirasi masyarakat. Hasil survei menunjukkan bahwa 90% responden menyetujui kebijakan tertentu. Namun, responden berasal dari kelompok ekonomi yang hampir sama. Kesimpulan paling tepat adalah ...",
+    "options": {
+      "A": "Hasil survei dapat dianggap mewakili masyarakat karena jumlah persetujuannya tinggi.",
+      "B": "Keputusan tetap demokratis karena teknologi telah digunakan untuk mengumpulkan aspirasi.",
+      "C": "Tingginya persentase persetujuan belum menjamin keterwakilan yang adil terhadap seluruh kelompok masyarakat.",
+      "D": "Survei harus ditolak karena tidak dapat menggantikan musyawarah langsung.",
+      "E": "Keputusan seharusnya mengikuti kelompok yang paling terdampak tanpa mempertimbangkan masyarakat lainnya."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "Pemerintah membangun fasilitas umum dengan mempertimbangkan jumlah penduduk. Wilayah dengan populasi besar memperoleh fasilitas lebih banyak, sedangkan wilayah terpencil memperoleh lebih sedikit meskipun kebutuhan dasarnya lebih tinggi. Prinsip yang seharusnya dikoreksi adalah ...",
+    "options": {
+      "A": "Prinsip efisiensi dalam penggunaan anggaran.",
+      "B": "Prinsip proporsionalitas yang hanya didasarkan pada jumlah penduduk.",
+      "C": "Prinsip pemerataan yang memperhitungkan kebutuhan dan ketimpangan akses.",
+      "D": "Prinsip partisipasi masyarakat dalam pembangunan.",
+      "E": "Prinsip otonomi daerah dalam menentukan prioritas."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "Dalam sebuah organisasi, ketua meminta seluruh anggota menerima keputusan yang telah dibuat sebelumnya. Ia beralasan bahwa keputusan tersebut merupakan hasil pemikiran terbaik dan akan menguntungkan semua anggota. Mengapa tindakan ini bermasalah?",
+    "options": {
+      "A": "Karena pemimpin tidak boleh memiliki pendapat pribadi.",
+      "B": "Karena keputusan yang menguntungkan tidak boleh dibuat oleh satu orang.",
+      "C": "Karena hasil yang diklaim baik tidak menggantikan kebutuhan akan proses partisipatif dan pertanggungjawaban.",
+      "D": "Karena setiap keputusan organisasi harus melalui pemungutan suara.",
+      "E": "Karena keputusan yang dibuat sebelum rapat selalu tidak sah."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "Apabila negara berhasil meningkatkan pendapatan nasional, tetapi akses pendidikan berkualitas hanya dinikmati masyarakat tertentu, indikator yang paling tepat untuk menilai keberhasilan sila ke-5 adalah ...",
+    "options": {
+      "A": "Pertumbuhan ekonomi nasional dan peningkatan investasi.",
+      "B": "Jumlah pembangunan fasilitas pendidikan tanpa melihat distribusinya.",
+      "C": "Seberapa luas manfaat pembangunan dan kesempatan pendidikan dapat diakses oleh berbagai lapisan masyarakat.",
+      "D": "Peningkatan jumlah sekolah unggulan di kota besar.",
+      "E": "Tingkat persaingan masyarakat dalam memperoleh pendidikan."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "Dalam suatu musyawarah, kelompok mayoritas menerima keputusan yang menguntungkan mereka sendiri. Kelompok minoritas tidak menyampaikan keberatan karena merasa pendapatnya tidak akan memengaruhi hasil. Secara formal keputusan telah disepakati. Penilaian paling tepat adalah ...",
+    "options": {
+      "A": "Keputusan sah sepenuhnya karena tidak ada penolakan.",
+      "B": "Keputusan mencerminkan demokrasi karena kelompok mayoritas memiliki hak menentukan.",
+      "C": "Keputusan perlu dikaji kembali karena tidak adanya keberatan belum tentu menunjukkan persetujuan yang bebas.",
+      "D": "Keputusan tidak sah karena kelompok minoritas harus selalu mendapatkan hak veto.",
+      "E": "Keputusan dapat diterima karena musyawarah tidak harus menghasilkan kepuasan semua pihak."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "Sebuah kebijakan memberikan bantuan lebih besar kepada masyarakat miskin dibandingkan masyarakat kaya. Sebagian pihak menganggap kebijakan tersebut diskriminatif karena jumlah bantuan tidak sama. Analisis paling tepat adalah ...",
+    "options": {
+      "A": "Kebijakan tersebut tidak adil karena setiap warga negara memiliki kedudukan yang sama.",
+      "B": "Kebijakan tersebut adil apabila perbedaan bantuan didasarkan pada kebutuhan yang relevan untuk mengurangi ketimpangan.",
+      "C": "Kebijakan tersebut salah karena keadilan harus selalu menggunakan pembagian proporsional berdasarkan pendapatan.",
+      "D": "Kebijakan tersebut hanya dapat dibenarkan jika seluruh masyarakat menyetujuinya.",
+      "E": "Kebijakan tersebut bertentangan dengan demokrasi karena tidak memberikan manfaat yang sama."
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "Suatu daerah memiliki sumber daya alam melimpah. Pemerintah daerah dan perusahaan menyepakati proyek pembangunan melalui musyawarah. Namun, masyarakat sekitar yang paling terdampak tidak dilibatkan. Jika proyek tersebut menghasilkan pendapatan besar bagi daerah, apakah proyek tersebut dapat disebut mencerminkan Pancasila?",
+    "options": {
+      "A": "Ya, karena peningkatan pendapatan daerah merupakan bentuk keadilan sosial.",
+      "B": "Ya, karena pemerintah daerah telah memiliki kewenangan membuat keputusan.",
+      "C": "Belum tentu, karena kesepakatan formal tidak menjamin keterwakilan pihak terdampak maupun distribusi manfaat yang adil.",
+      "D": "Tidak, karena seluruh proyek ekonomi harus disetujui setiap warga tanpa pengecualian.",
+      "E": "Ya, karena kepentingan pembangunan lebih penting daripada kepentingan kelompok tertentu."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "Dalam kondisi anggaran negara terbatas, pemerintah harus memilih antara membangun fasilitas ekonomi di wilayah maju atau menyediakan kebutuhan dasar di wilayah tertinggal. Pendekatan yang paling sesuai dengan hubungan sila ke-4 dan ke-5 adalah ...",
+    "options": {
+      "A": "Mengutamakan wilayah maju karena memberikan hasil ekonomi lebih cepat.",
+      "B": "Mengutamakan wilayah tertinggal tanpa mempertimbangkan dampak ekonomi secara keseluruhan.",
+      "C": "Menentukan prioritas melalui proses pengambilan keputusan yang partisipatif dengan mempertimbangkan kebutuhan, manfaat, dan keadilan distribusi.",
+      "D": "Membagi anggaran sama rata karena setiap daerah memiliki kedudukan yang setara.",
+      "E": "Menyerahkan keputusan kepada kelompok yang memiliki kontribusi ekonomi terbesar."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "Jika suatu keputusan mayoritas terbukti merugikan kepentingan jangka panjang masyarakat, apakah keputusan tersebut harus tetap dipertahankan atas nama demokrasi?",
+    "options": {
+      "A": "Ya, karena keputusan mayoritas merupakan representasi kehendak masyarakat.",
+      "B": "Tidak, karena demokrasi tidak boleh mempertimbangkan kepentingan generasi sekarang.",
+      "C": "Tidak harus, karena keputusan demokratis tetap perlu dievaluasi berdasarkan kebijaksanaan, tanggung jawab, dan dampak jangka panjang.",
+      "D": "Ya, selama keputusan tersebut tidak melanggar prosedur hukum.",
+      "E": "Tidak, karena setiap keputusan yang berisiko harus dibatalkan."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "Sebuah kampus memberikan fasilitas pembelajaran digital yang sama kepada seluruh mahasiswa. Namun, sebagian mahasiswa tinggal di daerah dengan jaringan internet yang tidak memadai. Jika kampus hanya mengukur keadilan berdasarkan jumlah fasilitas yang dibagikan, kekeliruan berpikir yang terjadi adalah ...",
+    "options": {
+      "A": "Menganggap kesetaraan input selalu menghasilkan kesetaraan akses dan hasil.",
+      "B": "Menganggap teknologi tidak dapat digunakan dalam pendidikan.",
+      "C": "Mengutamakan kepentingan mahasiswa dibandingkan lembaga pendidikan.",
+      "D": "Mengabaikan prinsip kebebasan akademik.",
+      "E": "Menganggap seluruh mahasiswa harus memperoleh hasil akademik yang sama."
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "Dalam sebuah pemilihan pemimpin, seorang calon menjanjikan pemerataan kesejahteraan, tetapi menolak kritik masyarakat dengan alasan bahwa kritik dapat menghambat stabilitas. Kontradiksi paling mendasar dari sikap tersebut adalah ...",
+    "options": {
+      "A": "Kesejahteraan tidak dapat diwujudkan melalui kepemimpinan.",
+      "B": "Stabilitas merupakan syarat yang tidak diperlukan dalam pembangunan.",
+      "C": "Tujuan keadilan sosial tidak dapat dijadikan pembenaran untuk menghilangkan partisipasi dan pengawasan demokratis.",
+      "D": "Kritik masyarakat selalu lebih benar daripada keputusan pemimpin.",
+      "E": "Pemerataan kesejahteraan harus dilakukan tanpa campur tangan pemerintah."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "Apabila suatu kebijakan memberikan manfaat yang sama kepada semua orang, tetapi membutuhkan pengorbanan yang jauh lebih besar dari kelompok masyarakat yang paling lemah, bagaimana kebijakan tersebut seharusnya dinilai?",
+    "options": {
+      "A": "Adil karena manfaat akhir diterima secara merata.",
+      "B": "Adil karena setiap kebijakan selalu memiliki konsekuensi.",
+      "C": "Belum tentu adil karena penilaian keadilan harus memperhatikan distribusi beban dan manfaat, bukan hanya hasil akhirnya.",
+      "D": "Tidak adil karena setiap kelompok harus menerima beban yang sama.",
+      "E": "Adil selama kebijakan tersebut telah disepakati melalui musyawarah."
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "Bayangkan suatu negara memiliki sistem demokrasi yang sangat kuat. Semua keputusan diambil berdasarkan musyawarah dan suara mayoritas. Namun, hasil kebijakannya selalu menguntungkan kelompok yang memiliki kekuatan ekonomi dan politik terbesar. Secara filosofis, apa kelemahan utama sistem tersebut jika ditinjau dari Pancasila?",
+    "options": {
+      "A": "Demokrasi terlalu banyak memberikan ruang kepada masyarakat untuk menentukan kebijakan.",
+      "B": "Musyawarah tidak dapat digunakan untuk menyelesaikan konflik kepentingan.",
+      "C": "Demokrasi hanya dijadikan prosedur pengambilan keputusan tanpa menjamin keadilan dalam distribusi manfaat dan perlindungan kepentingan masyarakat.",
+      "D": "Kelompok ekonomi kuat tidak boleh terlibat dalam pengambilan keputusan.",
+      "E": "Keadilan sosial hanya dapat tercapai apabila seluruh keputusan dibuat pemerintah pusat."
+    },
+    "answer": "C",
+    "explanation": ""
+  }
+]

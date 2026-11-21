@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CYBERFØDZ Voice Test</title>
+<style>
+body {
+  background:#080101;
+  color:#ff4545;
+  font-family:monospace;
+  padding:25px;
+}
+button {
+  background:#260606;
+  color:#ff5555;
+  border:1px solid red;
+  padding:16px;
+  width:100%;
+  margin:10px 0;
+}
+</style>
+</head>
+<body>
+<h2>CYBERFØDZ // VOICE DIAGNOSTIC</h2>
+<button onclick="testVoice()">▶ TEST SUARA ROBOT</button>
+<button onclick="showVoices()">▶ PERIKSA VOICE</button>
+<pre id="result">Menunggu pengujian...</pre>
+
+<script>
+function showVoices() {
+  const voices = speechSynthesis.getVoices();
+  document.getElementById("result").textContent =
+    voices.length
+      ? voices.map(v => v.name + " | " + v.lang).join("\n")
+      : "VOICE BELUM TERSEDIA";
+}
+
+function testVoice() {
+  if (!("speechSynthesis" in window)) {
+    document.getElementById("result").textContent =
+      "BROWSER TIDAK MENDUKUNG TEXT TO SPEECH";
+    return;
+  }
+
+  speechSynthesis.cancel();
+
+  const u = new SpeechSynthesisUtterance(
+    "Sistem Cyber Fodz aktif. Selamat datang, operator."
+  );
+  u.lang = "id-ID";
+  u.rate = 0.85;
+  u.pitch = 0.65;
+  u.volume = 1;
+
+  u.onstart = () => {
+    document.getElementById("result").textContent = "SUARA MULAI...";
+  };
+  u.onerror = e => {
+    document.getElementById("result").textContent =
+      "ERROR: " + e.error;
+  };
+  u.onend = () => {
+    document.getElementById("result").textContent = "SUARA SELESAI.";
+  };
+
+  speechSynthesis.speak(u);
+  setTimeout(showVoices, 1000);
+}
+
+speechSynthesis.onvoiceschanged = showVoices;
+setTimeout(showVoices, 1000);
+</script>
+</body>
+</html>

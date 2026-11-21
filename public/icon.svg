@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="90" fill="#050000"/>
+  <rect x="22" y="22" width="468" height="468" rx="70"
+        fill="none" stroke="#b51c1c" stroke-width="8"/>
+  <path d="M350 145H190L110 225V287L190 367H350"
+        fill="none" stroke="#ff3030" stroke-width="30"
+        stroke-linecap="square"/>
+  <path d="M380 190L300 256L380 322"
+        fill="none" stroke="#ff7777" stroke-width="22"/>
+  <text x="256" y="445" text-anchor="middle"
+        font-family="monospace" font-weight="bold"
+        font-size="38" fill="#ff4545">FØDZ</text>
+</svg>

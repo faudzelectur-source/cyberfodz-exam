@@ -1,0 +1,42 @@
+node_modules/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+postgres-*.log
+postgres-*.pid
+*.pre-neon-backup
+memory/wa-auth/
+wa-auth-backup/
+
+# Rahasia dan konfigurasi lokal
+.neon
+*.env
+*.env.*
+.env
+
+# Database dan seluruh cadangannya
+*.sqlite*
+*.db*
+*.backup
+*.bak
+*.before-*
+
+# Cadangan source code
+*.pre-*
+*.pre-*-*
+*.before-*
+*.bak
+
+# Folder konfigurasi lokal
+.agents/
+.codex/
+server.js.backup*
+
+# Backup dan file sementara di public
+public/*.backup*
+public/*backup*
+public/*.cyber-backup
+public/*.tmp

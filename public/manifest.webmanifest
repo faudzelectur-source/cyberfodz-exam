@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "CYBERFØDZ Examination Terminal",
+  "short_name": "CYBERFØDZ",
+  "description": "CYBERFØDZ Digital Examination System",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050000",
+  "theme_color": "#050000",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

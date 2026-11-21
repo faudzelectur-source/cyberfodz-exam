@@ -1,0 +1,24 @@
+{
+  "name": "fodz-exam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website ujian Pancasila sederhana dengan penyimpanan hasil dan panel admin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.postgres.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@neon/config": "^1.14.5",
+    "@neon/env": "^2.1.8",
+    "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "helmet": "^8.0.0",
+    "pg": "^8.23.1"
+  }
+}
